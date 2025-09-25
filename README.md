@@ -17,18 +17,32 @@ My journey includes practical fieldwork, technical training, and direct involvem
 ---
 
 ## 🛠️ Technical Experience
-### Electrical & Mechanical Work
-- Tested and troubleshooted **3-phase supply issues**, **bridge rectifiers**, and **relays**.  
-- Worked with **VFDs (inverters)**: understanding error codes, phase monitoring, and programming basics.  
+### Electrical & Mechanical Work  
+- Tested and troubleshooted **3-phase supply issues**, bridge rectifiers, and relays.  
+- Worked with **VFDs (inverters):** error codes, phase monitoring, and programming basics.  
 - Practical experience in **gearbox vs gearless machines**, alignment, and cabin installation.  
-- Ensured **welding quality** and **support structure stability**, especially in **tower-type installations**.  
+- Ensured **welding quality** and support structure stability, especially in **tower-type installations**.  
 
-### Fault Handling Approach
+### Fault Handling Approach  
 1. Check the **3-phase input**.  
 2. Inspect **bridge rectifier & relays**.  
-3. Test wiring connections.  
+3. Test **wiring connections**.  
 4. Diagnose **VFD errors** (overcurrent, undervoltage, etc.).  
 5. Confirm **mechanical alignment** of guides, cabin, and machine mounting.  
+
+### Commissioning & Handover (Mechanical & Electrical)  
+- Review **shaft dimensions and verticality** (using plumb line, laser level, or total station).  
+- Check **steel supports, welding quality**, and correct positioning of guides.  
+- Inspect **door verticality** and cabin alignment.  
+- Verify **machine placement and installation** (gearless vs geared).  
+- Final **electrical handover:** testing DBs, controllers, and safety circuits.  
+
+---
+
+## 🛠 Local Controllers & Handover Process  
+- Experienced in assembling and wiring **local controllers**.  
+- Hands-on with **control board testing** and connection verification.  
+- Practical knowledge of **handover process**, including inspection checklists and client acceptance steps.  
 
 ---
 
